@@ -27,7 +27,7 @@ export default async function ArticleDetailPage({ params }: PageProps) {
         
         {/* Back Link */}
         <Button asChild variant="ghost" size="sm" className="text-xs gap-2 p-0 hover:bg-transparent text-muted-foreground hover:text-foreground">
-          <Link href={ROUTES.INSIGHTS}>
+          <Link href={ROUTES.INSIGHTS.LIST}>
             <ArrowLeft className="w-4 h-4" />
             <span>Back to Insights</span>
           </Link>
