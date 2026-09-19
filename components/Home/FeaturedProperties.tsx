@@ -7,7 +7,6 @@ import { ROUTES } from "@/app/config/routes";
 import { MapPin, ArrowRight, Heart } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { properties } from "@/app/home/data";
 import {
   Card,
   

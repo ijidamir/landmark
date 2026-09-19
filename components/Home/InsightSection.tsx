@@ -11,7 +11,6 @@ import {
   CardTitle,
   CardDescription,
 } from "@/components/ui/card";
-import { articles } from "@/app/home/data";
 import { ARTICLES } from "@/app/config/insights";
 
 
