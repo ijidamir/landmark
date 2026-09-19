@@ -1,0 +1,13 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Navy Background with Soft Rounded Corners -->
+  <rect width="512" height="512" rx="112" fill="#0B132B"/>
+  
+  <!-- Architectural 'L' Frame -->
+  <path d="M128 128V384H384" stroke="#C5A059" stroke-width="40" stroke-linecap="square"/>
+  
+  <!-- Intersecting 'N' Monogram -->
+  <path d="M216 200V320L340 200V320" stroke="#C5A059" stroke-width="36" stroke-linecap="square" stroke-linejoin="miter"/>
+  
+  <!-- Accent Gold Square -->
+  <rect x="344" y="128" width="40" height="40" fill="#C5A059"/>
+</svg>
