@@ -5,6 +5,8 @@ export interface Article {
     date: string;
     image: string;
     excerpt?: string;
+    readTime?: string;
+  author?: string | { name: string; avatar?: string };
   }
   
   export const ARTICLES: Article[] = [
